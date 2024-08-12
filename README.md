@@ -9,3 +9,6 @@
 
 <img src="https://github.com/lixiaozi11/ProjectDemo/blob/main/%E5%9D%A6%E5%85%8B.png" width="50%">
 
+学习shader，通过噪声分形生成极光，学习VR
+
+<img src="https://github.com/lixiaozi11/ProjectDemo/blob/main/VR.png" width="50%">
