@@ -11,4 +11,5 @@
 
 学习shader，通过噪声分形生成极光，学习VR
 
+<img src="https://github.com/lixiaozi11/ProjectDemo/blob/main/shader.png" width="50%">
 <img src="https://github.com/lixiaozi11/ProjectDemo/blob/main/VR.png" width="50%">
